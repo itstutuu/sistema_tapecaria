@@ -406,7 +406,7 @@ window.close()
 while True:    
     event, values = window.read()    
     print(event,values)    
-    if event == sg.WIN_CLOSED:           # always,  always give a way out!    
+    if event == sg.WIN_CLOSED:  
         break  
 
 # Fazer as mudanças para a base persistente
