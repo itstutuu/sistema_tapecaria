@@ -1,8 +1,8 @@
-* Texto escrito por mim, traduzido em **markdown** pela Gemini.
 
 # Projeto Integrador I | Big Data para Negócios (Fatec Ipiranga)
 
-# Sistema desenvolvido como um ERP para cadastro de clientes, pedidos e fornecedores.
+* Sistema desenvolvido como um ERP para cadastro de clientes, pedidos e fornecedores.
+* Texto escrito por mim, traduzido em **markdown** pela Gemini.
 
 ## 🛠️ Infraestrutura do Software
 
@@ -25,9 +25,9 @@ A arquitetura da solução foi desenhada integrando as seguintes tecnologias:
 
 ## 📊 Geração de Dados Fictícios (*Mock Data*)
 
-Como o parceiro comercial não possuía uma gestão centralizada da informação, com dados dispersos em cadernetas manuais, WhatsApp e e-mails, foi necessário criar uma estratégia de testes robusta.
+Como o parceiro comercial não possuía uma gestão centralizada da informação, com dados dispersos em cadernetas manuais, WhatsApp e e-mails, foi necessário criar uma estratégia de testes.
 
-Utilizando **Python + biblioteca Faker**, gerei *mock data* (dados fictícios, porém estatisticamente realistas). Essa massa de dados foi fundamental para:
+Utilizando **Python + biblioteca Faker**, gerei *mock data* (dados fictícios estatisticamente realistas), que serviu para:
 
 1. Validar e homologar as funcionalidades da aplicação (testes de estresse e consistência).
 2. Alimentar e simular os relatórios analíticos no Power BI antes da virada oficial para o ambiente de produção.
@@ -39,3 +39,4 @@ Utilizando **Python + biblioteca Faker**, gerei *mock data* (dados fictícios, p
 A iniciativa visa cumprir a missão do **Centro Paula Souza**, que incentiva os estudantes a retornarem o benefício do ensino público à sociedade. Isso é feito aplicando o aprendizado acadêmico na resolução de problemas reais de mercado. O desafio inicial consistiu em prospectar e firmar parceria com um negócio real para implementar, de forma totalmente gratuita, uma solução voltada à inteligência de dados.
 
 Com isso, fechamos uma parceria com a **Tapeçaria Marzorati**, uma empresa de médio porte focada na confecção e conserto de móveis estofados, para o desenvolvimento e aplicação do sistema.
+
